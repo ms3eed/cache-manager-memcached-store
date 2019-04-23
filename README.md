@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save @types/memcached`
+> `npm install --save @types/cache-manager-memcached-store`
 
 # Summary
 This package contains type definitions for memcached ( https://github.com/3rd-Eden/memcached ).

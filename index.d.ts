@@ -1,4 +1,4 @@
-// Type definitions for cache-manager-memcached v2.1.0
+// Type definitions for cache-manager-memcached-store v2.1.0
 // Project: https://github.com/theogravity/node-cache-manager-memcached
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 

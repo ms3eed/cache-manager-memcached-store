@@ -1,7 +1,7 @@
 {
-    "name": "@types/cache-manager-memcached",
+    "name": "@types/cache-manager-memcached-store",
     "version": "2.1.0",
-    "description": "TypeScript definitions for cache-manager-memcached",
+    "description": "TypeScript definitions for cache-manager-memcached-store",
     "license": "MIT",
     "main": "",
     "types": "index",
